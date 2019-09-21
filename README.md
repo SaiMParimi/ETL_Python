@@ -1,6 +1,6 @@
 # ETL_Python
 
-Running main.py will execute the ETL process to load data from multiple source files to multiple tables, user can reuse this code just by changing the source file path, source file name, target table name. (There is no need to change the code logic)
+Running main.py will execute the ETL process to load data from multiple source files to multiple tables, user can reuse this code just by changing the source file path, source file name, target table name.
 
 
 Note - 
