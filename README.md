@@ -13,6 +13,8 @@ Running main.py will trigger the following ETL process steps to load data from m
 7. Notify.py 
   And finally the ETL status and etl_log file is emailed to the user daily. 
 
+ETL Flow Process
+![ETL Flow](https://github.com/SaiMParimi/ETL_Python/blob/master/ETL%20Flow.png)
 
 Note - 
 * This code can be easily modified to load multiple source file data to a single file by passing just the first value from target_table_list tuple (e.g. target_table_list[0]) to the 'for' loop .
