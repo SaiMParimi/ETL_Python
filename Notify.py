@@ -16,7 +16,7 @@ def email(status):
     msg['To'] =  'monicaparimi@gmail.com'
 
     
-    s = smtplib.SMTP('********') #('postfix-sg.res.xomelabs.com')#localhost
+    s = smtplib.SMTP('********') #localhost
     s.connect('*********')
     s.send_message(msg)
     
