@@ -33,8 +33,6 @@ print('# of target tables : '.ljust(50, '.'),tbl_count,'\n\n',file = etl_lg)
 etl_lg.close()
 err_lg.close()
 
-line='-'
-line = line.ljust(80, '-')
 
 
 for i in range(0,src_count):
