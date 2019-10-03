@@ -2,7 +2,7 @@
 
 Please click on the ETL Flow.png for understanding the ETL Process flow before executing the files.
 
-Running main.py will trigger the following ETL process steps to load data from multiple source files to multiple tables, user can reuse this code just by changing the source file path, source file name, target table name.
+Running main.py will trigger the following ETL process steps to load data from multiple source files to multiple tables, user can reuse this code just by changing the source file path, source file names, target table names.
 
 1. main.py
 2. Logging - creates etl_log and error_log file. 
